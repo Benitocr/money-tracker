@@ -12,6 +12,19 @@ Money tracker is an application that allows to keep track of your money while yo
   * express
   * mongoose
 
+## You can have Money tracker in your cel or computer
+
+Follow this instrucctions
+* On your computer, open Chrome.
+
+* Go to [Money tracker](https://bens-money-tracker.herokuapp.com/)
+
+* At the top right of the address bar, click Install ➕.
+
+* Follow the onscreen instructions to install the PWA.
+
+
+![Money-Tracker](./mockup.jpg)
 
 ## GitHub Repository
 
