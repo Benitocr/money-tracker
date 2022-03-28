@@ -3,9 +3,9 @@
 ![Javascript](https://img.shields.io/badge/Javascipt-blue)
 
 ## Purpose
-Money tracker is an application that allows to keep track of your money while you are traveling, .
+[Money tracker](https://bens-money-tracker.herokuapp.com/) is an application that allows to keep track of your money while you are traveling, .
 
-
+Here is the link to the deployed app: https://bens-money-tracker.herokuapp.com/
 ## Built with
 * Javascript
 * NPM Packages 
